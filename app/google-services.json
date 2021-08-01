@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687199048183",
+    "project_id": "sampletest-153ae",
+    "storage_bucket": "sampletest-153ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687199048183:android:8228307689a3f0a7c31ef2",
+        "android_client_info": {
+          "package_name": "com.winsoltesting.autoupdatesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687199048183-iv96j6ehah6mko3925gegue41kkuq3ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiz9A4GSvYq6-1E8EHiH2tdT9Hvqok5SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687199048183-iv96j6ehah6mko3925gegue41kkuq3ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
